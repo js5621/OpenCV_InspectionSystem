@@ -1,6 +1,6 @@
-# 검사 시뮬레이션 관련 openCV 소스 연습
+# 검사 시뮬레이션 이미지 처리 파트 
 
-
+참고 소스
 ```cs
 using OpenCvSharp;
 
