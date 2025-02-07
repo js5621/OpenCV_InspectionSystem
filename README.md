@@ -24,3 +24,5 @@ namespace OpenCVProject
     }
 }
 ```
+
+**프로젝트 3일차 움직임 작업 구현 완료 **
