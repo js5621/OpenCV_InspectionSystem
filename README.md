@@ -43,6 +43,7 @@ namespace OpenCVProject
 
 |제목|내용|설명|
 |:------|---:|:---:|
-|:sampl1|content1|description1|
 |sampl1|content1|description1|
 |sampl1|content1|description1|
+|sampl1|content1|description1|
+왼쪽정렬/오른쪽정렬/중앙절렬
